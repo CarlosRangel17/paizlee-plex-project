@@ -1,0 +1,10 @@
+{
+  "description": "Experience a seamless and visually engaging TV browsing experience with RetroStream, designed for effortless navigation and content discovery on large screens.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
